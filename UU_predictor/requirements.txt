@@ -1,0 +1,8 @@
+dill
+pandas
+flask==2.0.0
+numpy
+sklearn
+lightgbm
+gunicorn
+gevent
